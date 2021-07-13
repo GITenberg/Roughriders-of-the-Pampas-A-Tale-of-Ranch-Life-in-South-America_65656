@@ -1,5 +1,5 @@
 _repo: Roughriders-of-the-Pampas-A-Tale-of-Ranch-Life-in-South-America_65656
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wood, Stanley L.
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4541'
     url: http://www.gutenberg.org/2009/agents/4541
     wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+covers:
+- cover_type: archival
+  image_path: 65656-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Brereton, F. S. (Frederick Sadleir)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34828
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Sadleir_Brereton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65656#Roughriders-of-the-Pampas-A-Tale-of-Ranch-Life-in-South-America
 gutenberg_issued: '2021-06-20'
 gutenberg_type: Text
 identifiers:
